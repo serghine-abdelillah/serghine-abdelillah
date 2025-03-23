@@ -1,7 +1,10 @@
 # 💻 Abdelillah Serghine | Software & AI Engineer
 
-### 👋 Welcome to my GitHub profile! 
+### 👋 Welcome to my GitHub profile!  
 
+I’m a **Software & AI Engineer** with expertise in **Machine Learning, MLOps, and Web & Mobile Development**. I love exploring new technologies and building innovative solutions.  
+
+---
 
 <p align="center">
  
