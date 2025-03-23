@@ -14,7 +14,7 @@ I’m a **Software & AI Engineer** with expertise in **Machine Learning, MLOps, 
 
 ## 🚀 Technical Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,java,js,html,css,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,html,css,notion,figma)](https://skillicons.dev)
 
 
 <p align="center">
