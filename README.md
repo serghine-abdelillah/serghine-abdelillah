@@ -2,7 +2,7 @@
 
 ### 👋 Welcome to my GitHub profile!  
 
-I’m a **Software & AI Engineer** with expertise in **Machine Learning, MLOps, and Web & Mobile Development**. I love exploring new technologies and building innovative solutions.  
+I’m a **Software & AI Engineer** with expertise in **Machine Learning, MLOps, and Web Development**. I love exploring new technologies and building innovative solutions.  
 
 ---
 
@@ -12,7 +12,8 @@ I’m a **Software & AI Engineer** with expertise in **Machine Learning, MLOps, 
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
 
 
-### Tech stack
+## 🚀 Technical Skills  
+
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,java,js,html,css,notion)](https://skillicons.dev)
 
 
