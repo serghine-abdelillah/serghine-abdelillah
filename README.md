@@ -34,3 +34,8 @@ I’m a **Software & AI Engineer** with expertise in **Machine Learning, MLOps, 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=serghine-abdelillah&theme=tokyonight&hide_border=true" alt="serghine-abdelillah's Streak" height="165">
   </p>
 </div>
+
+
+## 🤝 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInURL)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YourTwitterURL)  
