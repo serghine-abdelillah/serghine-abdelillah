@@ -37,5 +37,5 @@ I’m a **Software & AI Engineer** with expertise in **Machine Learning, MLOps, 
 
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInURL) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelillahserghine@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelillah-serghine-9b6313216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmTv9G9TNQM%2BhSJzIyMBlIQ%3D%3D) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelillahserghine@gmail.com)
 
