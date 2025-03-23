@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-i am # 💻 Abdelillah Serghine | Software & AI Engineer
+I am 
+# 💻 Abdelillah Serghine | Software & AI Engineer
 
 <p align="center">
  
