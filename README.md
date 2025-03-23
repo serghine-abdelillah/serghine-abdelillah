@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+i am # 💻 Abdelillah Serghine | Software & AI Engineer
 
 <p align="center">
  
@@ -19,10 +20,6 @@
  <img src="https://badges.pufler.dev/commits/monthly/serghine-abdelillah" />
 
 </p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=serghine-abdelillah&show_icons=true&locale=en&layout=compact&theme=tokyonight-duo&line_height=0" />
-</p> 
 
 ## 📈 My GitHub stats
 
