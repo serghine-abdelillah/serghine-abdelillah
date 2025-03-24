@@ -1,8 +1,8 @@
-# 💻 Abdelillah Serghine | Software & AI Engineer
+# 💻 Abdelillah Serghine | Software & AI Developer
 
 ### 👋 Welcome to my GitHub profile!  
 
-I’m a **Software & AI developer** with expertise in **Machine Learning, MLOps, and Web Development** projects. I love exploring new technologies and building innovative solutions.  
+I’m a **Software & AI developer** with expertise in **Machine Learning, Deep Learning, MLOps, and Web Development** with several projects. I love exploring new technologies and building innovative solutions.  
 
 ---
 
@@ -14,7 +14,7 @@ I’m a **Software & AI developer** with expertise in **Machine Learning, MLOps,
 
 ## 🚀 Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,js,html,css,notion,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,git,github,mongodb,mysql,notion,figma)](https://skillicons.dev)
 
 
 <p align="center">
