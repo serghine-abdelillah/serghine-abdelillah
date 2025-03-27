@@ -4,7 +4,7 @@
 
 I’m a **Software & AI developer** making projects in :\
 ** - Machine Learning,** \
-** - Deep Learning,
+** - Deep Learning,**
 ** - MLOps, and Web Development**. I love exploring new technologies and building innovative solutions.  
 
 ---
