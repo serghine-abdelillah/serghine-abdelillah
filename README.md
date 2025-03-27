@@ -2,7 +2,7 @@
 
 ### 👋 Welcome to my GitHub profile!  
 
-I’m a **Software & AI developer** with expertise in **Machine Learning, Deep Learning, MLOps, and Web Development** with several projects. I love exploring new technologies and building innovative solutions.  
+I’m a **Software & AI developer** making projects in **Machine Learning, Deep Learning, MLOps, and Web Development**. I love exploring new technologies and building innovative solutions.  
 
 ---
 
