@@ -1,5 +1,4 @@
-# 💻 Abdelillah Serghine | Software & AI Developer
-
+# 💻 Abdelillah Serghine | Software Developer & AI student
 ### 👋 Welcome to my GitHub profile!  
 
 I’m a **Software & AI developer** making projects in :\
