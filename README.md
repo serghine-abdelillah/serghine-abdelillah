@@ -39,7 +39,7 @@ I love exploring new technologies and building innovative solutions.
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=serghine-abdelillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="serghine-abdelillah's Stats" height="165">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=serghine-abdelillah&theme=tokyonight&hide_border=true" alt="serghine-abdelillah's Streak" height="165">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=serghine-abdelillah&theme=tokyonight">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=serghine-abdelillah&theme=tokyonight&hide_border=true" height="165">
   </p>
 
 
