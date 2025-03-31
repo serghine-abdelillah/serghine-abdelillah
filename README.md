@@ -13,7 +13,7 @@ I love exploring new technologies and building innovative solutions.
  
 
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
-
+## 🎓 Education 
 
 ## 🚀 Tech stack
 
