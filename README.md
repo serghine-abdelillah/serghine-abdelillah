@@ -14,8 +14,8 @@ I love exploring new technologies and building innovative solutions.
 
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
 ## 🎓 Education 
-- **📍 [Your University Name]**  
-  🎓 **Degree**: [Your Degree]  
+- **📍 Ecole superieure en informatique sidi belabbes (ESI-SBA)**  
+  🎓 **Degree**: Artificial intelligence 
   📆 **Year**: [Start Year] - [End Year]  
   🏆 **Specialization**: [Your Major]  
 
