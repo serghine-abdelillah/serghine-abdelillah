@@ -15,7 +15,7 @@ I love exploring new technologies and building innovative solutions.
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
 ## 🎓 Education 
 - **📍 Ecole superieure en informatique sidi belabbes (ESI-SBA)**  
-  🎓 **Degree**: Master's Degree 
+  🎓 **Degree**: Master's Degree \
   📆 **Year**: 2023 - Now  
   🏆 **Specialization**: Artificial intelligence and data science
 
