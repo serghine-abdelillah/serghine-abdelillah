@@ -17,7 +17,7 @@ I love exploring new technologies and building innovative solutions.
 
 ## 🚀 Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,git,github,mongodb,mysql,notion,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,html,css,js,git,github,mongodb,mysql,notion,figma)](https://skillicons.dev)
 
 
 <p align="center">
