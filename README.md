@@ -1,4 +1,4 @@
-<img src="https://github.com/serghine-abdelillah/serghine-abdelillah/blob/main/images/Moon light.jpg"  />   
+   
 # 💻 Abdelillah Serghine | Software Developer & AI student
 ### 👋 Welcome to my GitHub profile!  
 
@@ -42,7 +42,7 @@ I love exploring new technologies and building innovative solutions.
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=serghine-abdelillah&theme=tokyonight&hide_border=true&layout=compact">
   </p>
   
-
+ <!--<img src="https://github.com/serghine-abdelillah/serghine-abdelillah/blob/main/images/Moon light.jpg"  height="165"/> -->
 
 
 ## 🤝 Lets's Connect  
