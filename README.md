@@ -1,6 +1,6 @@
    
 # 💻 Abdelillah Serghine | Software Developer & AI student
-
+<!-- <img src="https://github.com/serghine-abdelillah/serghine-abdelillah/blob/main/images/Wallpaper.jpg" /> -->
 ### 👋 Welcome to my GitHub profile!  
 
 I’m a **Software & AI developer** making projects in :\
