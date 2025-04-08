@@ -22,6 +22,8 @@ I love exploring new technologies and building innovative solutions.
   📆 **Year**: 2023 - Now  
   🏆 **Specialization**: Artificial intelligence and data science
 
+  - **📍 University of Adrar**  
+
 ## 🚀 Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,html,css,js,git,github,linux,mongodb,mysql,notion,figma)](https://skillicons.dev)
