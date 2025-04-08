@@ -23,7 +23,8 @@ I love exploring new technologies and building innovative solutions.
   🏆 **Specialization**: Artificial intelligence and data science
 
 - **📍 University of Adrar**
-  📆 **Year**: 2021 - 2023 
+  📆 **Year**: 2021 - 2023 \
+  🏆 **Specialization**: Computer science
 
 ## 🚀 Tech stack
 
