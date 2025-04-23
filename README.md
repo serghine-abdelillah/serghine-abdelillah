@@ -18,7 +18,7 @@ I love exploring new technologies and building innovative solutions.
 
 ## 🎓 Education 
 - **📍 Ecole superieure en informatique sidi belabbes (ESI-SBA)**  
-  🎓 **Degree**: Master's Degree \
+  🎓 **Degree**: Master's / Engineer's Degree \
   📆 **Year**: 2023 - Now  
   🏆 **Specialization**: Artificial intelligence and data science
 
