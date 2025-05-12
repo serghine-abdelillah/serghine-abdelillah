@@ -1,4 +1,5 @@
-   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=36BCF7FF&descAlign=54)" alt="header"/> 
+  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&pause=500&width=435&lines=Hi%2C+it's+Abdelillah+Serghine;Software+Developer;Artificial+intelligence+student)
 
 <img src="https://github.com/serghine-abdelillah/serghine-abdelillah/blob/main/images/image-cover.jpg" /> 
