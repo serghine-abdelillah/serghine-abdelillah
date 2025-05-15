@@ -18,7 +18,7 @@ I love exploring new technologies and building innovative solutions.
 <p align="center">
  
 
-## 🎓 Education 
+# 🎓 Education 
 - **📍 Ecole superieure en informatique sidi belabbes (ESI-SBA)**  
   🎓 **Degree**: Master's / Engineer's Degree \
   📆 **Year**: 2023 - Now  
@@ -28,7 +28,7 @@ I love exploring new technologies and building innovative solutions.
   📆 **Year**: 2021 - 2023 \
   🏆 **Specialization**: Computer science
 
-## 🚀 Tech stack
+# 🚀 Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,html,css,js,git,github,linux,mongodb,mysql,notion,figma)](https://skillicons.dev)
 
@@ -42,7 +42,7 @@ I love exploring new technologies and building innovative solutions.
 
 </p>
 
-## 📈 My GitHub stats
+# 📈 My GitHub stats
 
 <!-- <div class="badges-githubstats"> --->
   <p align="center">
@@ -55,6 +55,6 @@ I love exploring new technologies and building innovative solutions.
   
 
 
-## 🤝 Lets's Connect  
+# 🤝 Lets's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelillah-serghine-9b6313216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmTv9G9TNQM%2BhSJzIyMBlIQ%3D%3D) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelillahserghine@gmail.com)
 
