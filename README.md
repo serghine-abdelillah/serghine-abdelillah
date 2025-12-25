@@ -11,7 +11,7 @@ I’m a **Software & AI developer** making projects in :\
 **- Machine Learning,** \
 **- Deep Learning,**\
 **- Web Development**.\
-I love exploring new technologies and building innovative solutions.  
+Exploring new technologies and building innovative solutions.  
 
 ---
 
