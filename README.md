@@ -21,7 +21,7 @@ Exploring new technologies and building innovative solutions.
 # 🎓 Education 
 - **📍 Ecole superieure en informatique sidi belabbes (ESI-SBA)**  
   🎓 **Degree**: Master's / Engineer's Degree \
-  📆 **Year**: 2023 - Now  
+  📆 **Year**: 2023 - 2026  
   🏆 **Specialization**: Artificial intelligence and data science
 
 - **📍 University of Adrar** \
