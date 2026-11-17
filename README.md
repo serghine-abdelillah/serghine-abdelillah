@@ -30,7 +30,7 @@ Exploring new technologies and building innovative solutions.
 
 # 🚀 Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,html,css,js,git,github,linux,nodejs,mongodb,mysql,notion,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,html,css,js,react,git,github,linux,nodejs,mongodb,mysql,notion,figma)](https://skillicons.dev)
 
 
 <p align="center">
